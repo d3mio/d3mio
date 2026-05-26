@@ -1,0 +1,39 @@
+name: Generate 3D Contribution Graph
+
+on:
+  # Runs automatically every day at 6 AM UTC
+  schedule:
+    - cron: "0 6 * * *"
+  # Lets you trigger it manually from the Actions tab
+  workflow_dispatch:
+  # Also runs on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution SVG
+        uses: yoshi389111/github-readme-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # ─── Theme options (uncomment ONE to switch) ───────────────────────
+          # SETTING_JSON: '{"contributionGraphs":[{"header":"Contributions","type":"gitHub","gitHubUserName":"d3mio","themeName":"profile-gitblock"}]}'
+          # SETTING_JSON: '{"contributionGraphs":[{"header":"Contributions","type":"gitHub","gitHubUserName":"d3mio","themeName":"profile-season-animate"}]}'
+          # Default theme below → profile-night-rainbow (dark + colorful, like the screenshot)
+
+      - name: Commit and push generated SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --cached --exit-code || git commit -m "chore: regenerate 3D contribution graph [skip ci]"
+          git push
