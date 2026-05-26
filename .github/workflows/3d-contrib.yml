@@ -17,16 +17,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate 3D Contribution SVG
-        uses: docker://ghcr.io/yoshi389111/github-readme-3d-contrib:latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit and push generated SVG
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --cached --exit-code || git commit -m "chore: regenerate 3D contribution graph [skip ci]"
-          git push
+      - name: Generate Isometric Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: d3mio
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: profile-3d-contrib/profile-night-rainbow.svg
+          output_action: commit
+          committer_message: "chore: regenerate 3D contribution graph [skip ci]"
+          config_timezone: Asia/Colombo
