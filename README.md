@@ -114,7 +114,3 @@ At the convergence of performance, scalability, and design intelligence.
 > Great software is **empathetic**, **measurable**, and **maintainable**.
 
 ---
-
-<div align="center">
-<sub>→ <a href="https://disasgamage.vercel.app">disasgamage.vercel.app</a></sub>
-</div>
