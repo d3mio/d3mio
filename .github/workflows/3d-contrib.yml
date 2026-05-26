@@ -2,73 +2,31 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 1 * * *"   # 1 AM UTC daily
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
-# ADDED THIS BLOCK: Gives the workflow permission to commit and push
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Isometric Contribution Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: d3mio
-          template: classic
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          filename: profile-3d-contrib/profile-night-rainbow.svg
-          output_action: none
-          config_timezone: Asia/Colombo
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: d3mio
+          SETTING_JSON: |
+            {
+              "username": "d3mio",
+              "max_repos": 10,
+              "selectedFileName": "profile-night-rainbow.svg"
+            }
 
-      - name: Apply light blue color palette
-        run: |
-          mkdir -p profile-3d-contrib
-          FILE="profile-3d-contrib/profile-night-rainbow.svg"
-          if [ -f "$FILE" ]; then
-            echo "Applying blue palette..."
-
-            # GitHub dark theme greens → light blues
-            sed -i -e 's/#39d353/#79c0ff/g' "$FILE"
-            sed -i -e 's/#26a641/#58a6ff/g' "$FILE"
-            sed -i -e 's/#006d32/#1f6feb/g' "$FILE"
-            sed -i -e 's/#0e4429/#0d419d/g' "$FILE"
-
-            # GitHub light theme greens → light blues (fallback)
-            sed -i -e 's/#9be9a8/#cae8ff/g' "$FILE"
-            sed -i -e 's/#40c463/#79c0ff/g' "$FILE"
-            sed -i -e 's/#30a14e/#388bfd/g' "$FILE"
-            sed -i -e 's/#216e39/#1f6feb/g' "$FILE"
-
-            # Darker 3D side-face shades → matching blue darks
-            sed -i -e 's/#2ea043/#1a7fe8/g' "$FILE"
-            sed -i -e 's/#1a7f37/#1060c9/g' "$FILE"
-            sed -i -e 's/#196127/#0d45a5/g' "$FILE"
-
-            echo "Done. Sample output:"
-            grep -o '#[0-9a-fA-F]\{6\}' "$FILE" | sort | uniq -c | sort -rn | head -15
-          else
-            echo "ERROR: SVG not found. Contents of workspace:"
-            ls -la
-          fi
-
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --cached --exit-code || git commit -m "chore: regenerate 3D contribution graph [skip ci]"
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph [skip ci]"
           git push
