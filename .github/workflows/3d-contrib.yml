@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # 1 AM UTC daily
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← fixes Node 20 deprecation
     steps:
       - uses: actions/checkout@v4
 
