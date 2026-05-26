@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate 3D Contribution SVG
-        uses: yoshi389111/github-readme-3d-contrib@0.7.0
+        uses: docker://ghcr.io/yoshi389111/github-readme-3d-contrib:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
