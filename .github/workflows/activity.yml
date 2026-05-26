@@ -13,16 +13,35 @@ jobs:
     permissions:
       contents: write
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← fixes Node 20 deprecation
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - uses: actions/checkout@v4
 
+      # ── Auto-inject markers if they don't exist in README.md ──────────────
+      - name: Ensure activity section markers exist
+        run: |
+          if ! grep -q "<!--START_SECTION:activity-->" README.md; then
+            echo "Markers not found — injecting into README.md"
+            sed -i 's/## ⚡ Recent GitHub Activity/## ⚡ Recent GitHub Activity\n\n<!--START_SECTION:activity-->\n<!--END_SECTION:activity-->/' README.md
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: add activity section markers [skip ci]"
+            git push
+          else
+            echo "Markers already present — skipping injection"
+          fi
+
+      # ── Pull latest after possible push above ─────────────────────────────
+      - run: git pull --rebase
+
+      # ── Now run the activity updater ──────────────────────────────────────
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          GH_USERNAME: d3mio          # ← was missing
+          GH_USERNAME: d3mio
           COMMIT_MSG: "chore: update recent activity [skip ci]"
           MAX_LINES: 7
-          TARGET_FILE: README.md      # ← correct input name (was README_FILE)
-          # FILTER_EVENTS: PushEvent,CreateEvent  # optional: uncomment to filter
+          TARGET_FILE: README.md
