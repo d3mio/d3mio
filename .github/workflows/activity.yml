@@ -18,25 +18,51 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # ── Auto-inject markers if they don't exist in README.md ──────────────
-      - name: Ensure activity section markers exist
+      # ── Inject markers using Python (handles emoji/unicode safely) ─────────
+      - name: Ensure activity markers exist in README.md
         run: |
-          if ! grep -q "<!--START_SECTION:activity-->" README.md; then
-            echo "Markers not found — injecting into README.md"
-            sed -i 's/## ⚡ Recent GitHub Activity/## ⚡ Recent GitHub Activity\n\n<!--START_SECTION:activity-->\n<!--END_SECTION:activity-->/' README.md
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: add activity section markers [skip ci]"
+          python3 << 'EOF'
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          marker_start = "<!--START_SECTION:activity-->"
+          marker_end   = "<!--END_SECTION:activity-->"
+
+          if marker_start not in content:
+              print("Markers not found — injecting now...")
+              markers = f"\n{marker_start}\n{marker_end}\n"
+
+              # Try to place after the Recent Activity heading
+              heading = "## ⚡ Recent GitHub Activity"
+              if heading in content:
+                  content = content.replace(heading, heading + "\n" + markers, 1)
+              else:
+                  # Fallback: append to end of file
+                  content += "\n" + markers
+
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(content)
+              print("Markers injected successfully.")
+          else:
+              print("Markers already present — skipping.")
+          EOF
+
+      # ── Commit injected markers if README changed ──────────────────────────
+      - name: Commit markers if added
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes to commit" || (
+            git add README.md &&
+            git commit -m "chore: add activity section markers [skip ci]" &&
             git push
-          else
-            echo "Markers already present — skipping injection"
-          fi
+          )
 
-      # ── Pull latest after possible push above ─────────────────────────────
-      - run: git pull --rebase
+      # ── Pull latest so the activity action sees the committed markers ───────
+      - name: Pull latest changes
+        run: git pull --rebase
 
-      # ── Now run the activity updater ──────────────────────────────────────
+      # ── Update activity feed ───────────────────────────────────────────────
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
