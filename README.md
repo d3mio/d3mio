@@ -266,17 +266,6 @@ Actively contributing to meaningful open-source repositories — reviewing PRs, 
 
 ---
 
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-<!-- Auto-generated daily by GitHub Actions -->
-[![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/d3mio)
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -306,29 +295,3 @@ Actively contributing to meaningful open-source repositories — reviewing PRs, 
 </div>
 
 ---
-
-## 💬 Engineering Philosophy
-
-<div align="center">
-
-> *"The function of good software is to make the complex appear simple."*
-> &nbsp;&nbsp;— Grady Booch
-
-<br/>
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> &nbsp;&nbsp;— Martin Fowler
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Let's%20Build%20Something%20That%20Matters&fontSize=22&fontColor=a0aec0&fontAlignY=62&animation=twinkling" />
-
-*Crafted with precision &nbsp;·&nbsp; Powered by curiosity &nbsp;·&nbsp; Built to last*
-
-![Last Updated](https://img.shields.io/badge/Last%20Auto--Updated-Daily%20via%20Actions-58a6ff?style=flat-square&logo=githubactions&logoColor=white)
-
-</div>
