@@ -103,7 +103,7 @@ At the convergence of performance, scalability, and design intelligence.
 
 <div align="center">
 
-![Disas's GitHub Stats](https://github-readme-stats-puce-eta-85.vercel.app/api?username=d3mio&show_icons=true&theme=github_dark&hide_border=false&bg_color=1c1f26&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=30363d&rank_icon=percentile&include_all_commits=true&count_private=true&card_width=500)
+![Disas's GitHub Stats](https://github-readme-stats-puce-eta-85.vercel.app/api?username=d3mio&show_icons=true&theme=github_dark&hide_border=false&bg_color=1c1f26&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&border_color=30363d&rank_icon=default&include_all_commits=true&count_private=true&card_width=500)
 
 </div>
 
