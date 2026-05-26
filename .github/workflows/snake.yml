@@ -2,14 +2,16 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day at midnight UTC
-  workflow_dispatch:        # allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← fixes Node 20 deprecation
     steps:
       - uses: actions/checkout@v4
 
@@ -19,11 +21,6 @@ jobs:
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: output/
 
       - run: |
           git config user.name "github-actions[bot]"
