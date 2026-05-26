@@ -27,6 +27,44 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: profile-3d-contrib/profile-night-rainbow.svg
-          output_action: commit
-          committer_message: "chore: regenerate 3D contribution graph [skip ci]"
+          output_action: none
           config_timezone: Asia/Colombo
+
+      - name: Apply light blue color palette
+        run: |
+          mkdir -p profile-3d-contrib
+          FILE="profile-3d-contrib/profile-night-rainbow.svg"
+          if [ -f "$FILE" ]; then
+            echo "Applying blue palette..."
+
+            # GitHub dark theme greens → light blues
+            sed -i -e 's/#39d353/#79c0ff/g' "$FILE"
+            sed -i -e 's/#26a641/#58a6ff/g' "$FILE"
+            sed -i -e 's/#006d32/#1f6feb/g' "$FILE"
+            sed -i -e 's/#0e4429/#0d419d/g' "$FILE"
+
+            # GitHub light theme greens → light blues (fallback)
+            sed -i -e 's/#9be9a8/#cae8ff/g' "$FILE"
+            sed -i -e 's/#40c463/#79c0ff/g' "$FILE"
+            sed -i -e 's/#30a14e/#388bfd/g' "$FILE"
+            sed -i -e 's/#216e39/#1f6feb/g' "$FILE"
+
+            # Darker 3D side-face shades → matching blue darks
+            sed -i -e 's/#2ea043/#1a7fe8/g' "$FILE"
+            sed -i -e 's/#1a7f37/#1060c9/g' "$FILE"
+            sed -i -e 's/#196127/#0d45a5/g' "$FILE"
+
+            echo "Done. Sample output:"
+            grep -o '#[0-9a-fA-F]\{6\}' "$FILE" | sort | uniq -c | sort -rn | head -15
+          else
+            echo "ERROR: SVG not found. Contents of workspace:"
+            ls -la
+          fi
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --cached --exit-code || git commit -m "chore: regenerate 3D contribution graph [skip ci]"
+          git push
