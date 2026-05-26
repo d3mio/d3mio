@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# ADDED THIS BLOCK: Gives the workflow permission to commit and push
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
