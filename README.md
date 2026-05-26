@@ -227,6 +227,10 @@ Actively contributing to meaningful open-source repositories — reviewing PRs, 
 
 ## ⚡ Recent GitHub Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!--GITHUB_ACTIVITY:START-->
 <!-- Auto-updated by GitHub Actions — do not edit manually -->
 <!--GITHUB_ACTIVITY:END-->
