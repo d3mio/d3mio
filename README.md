@@ -225,6 +225,14 @@ Actively contributing to meaningful open-source repositories — reviewing PRs, 
 
 ---
 
+## ⚡ Recent GitHub Activity
+
+<!--GITHUB_ACTIVITY:START-->
+<!-- Auto-updated by GitHub Actions — do not edit manually -->
+<!--GITHUB_ACTIVITY:END-->
+
+---
+
 ## 📊 GitHub Intelligence
 
 <div align="center">
@@ -243,10 +251,26 @@ Actively contributing to meaningful open-source repositories — reviewing PRs, 
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Auto-generated daily by GitHub Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg" />
+  <img alt="Contribution Snake Animation" src="./output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🧊 3D Contribution Graph
 
 <div align="center">
 
+<!-- Auto-generated daily by GitHub Actions -->
 [![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/d3mio)
 
 </div>
@@ -304,5 +328,7 @@ Actively contributing to meaningful open-source repositories — reviewing PRs, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Let's%20Build%20Something%20That%20Matters&fontSize=22&fontColor=a0aec0&fontAlignY=62&animation=twinkling" />
 
 *Crafted with precision &nbsp;·&nbsp; Powered by curiosity &nbsp;·&nbsp; Built to last*
+
+![Last Updated](https://img.shields.io/badge/Last%20Auto--Updated-Daily%20via%20Actions-58a6ff?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
