@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← fixes Node 20 deprecation
     steps:
       - uses: actions/checkout@v4
 
@@ -19,8 +21,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: d3mio          # ← was missing
           COMMIT_MSG: "chore: update recent activity [skip ci]"
           MAX_LINES: 7
-          README_FILE: README.md
-          TARGET_COMMENTS_MARKER: GITHUB_ACTIVITY
-          URLPREFIX: https://github.com/
+          TARGET_FILE: README.md      # ← correct input name (was README_FILE)
+          # FILTER_EVENTS: PushEvent,CreateEvent  # optional: uncomment to filter
