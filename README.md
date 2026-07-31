@@ -16,8 +16,6 @@ At the convergence of performance, scalability, and design intelligence.
 
 <div align="center">
 
-(https://disasgamage.me)](https://disasgamage.me)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disas-gamage-7748a22b4)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/disas_10.20/)
