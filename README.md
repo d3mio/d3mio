@@ -60,7 +60,6 @@ At the convergence of performance, scalability, and design intelligence.
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 **Databases & Cloud**
 
@@ -82,7 +81,6 @@ At the convergence of performance, scalability, and design intelligence.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
@@ -91,11 +89,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 | | |
 |---|---|
-| 📱 | **Mobile** — React Native apps + Node.js backends at scale |
-| ⚙️ | **IoT** — ESP32 & ADS1115 sensor pipelines over MQTT / BLE |
-| 🧠 | **ML** — Supervised learning workflows on real-world datasets |
-| ☁️ | **Cloud** — CI/CD pipelines and cloud-native deployments |
-| 🤝 | **Open Source** — PRs, issues, and shipped features |
+| | **Mobile** — React Native apps + Node.js backends at scale |
+| | **IoT** — ESP32 & ADS1115 sensor pipelines over MQTT / BLE |
+| | **ML** — Supervised learning workflows on real-world datasets |
+| | **Cloud** — CI/CD pipelines and cloud-native deployments |
+| | **Open Source** — PRs, issues, and shipped features |
 
 ---
 
