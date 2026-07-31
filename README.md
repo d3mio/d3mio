@@ -86,11 +86,13 @@ At the convergence of performance, scalability, and design intelligence.
 ### Current Focus
 
 
-| | **Mobile** — React Native apps + Node.js backends at scale |
-| | **IoT** — ESP32 & ADS1115 sensor pipelines over MQTT / BLE |
-| | **ML** — Supervised learning workflows on real-world datasets |
-| | **Cloud** — CI/CD pipelines and cloud-native deployments |
-| | **Open Source** — PRs, issues, and shipped features |
+| Area | Experience & Focus |
+| :--- | :--- |
+| **Mobile** | React Native apps + Node.js backends at scale |
+| **IoT** | ESP32 & ADS1115 sensor pipelines over MQTT / BLE |
+| **ML** | Supervised learning workflows on real-world datasets |
+| **Cloud** | CI/CD pipelines and cloud-native deployments |
+| **Open Source** | PRs, issues, and shipped features |
 
 ---
 
