@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-sentry-gui/releases/tag/v1.0.0) in [d3mio/auto-secret-sentry-gui](https://github.com/d3mio/auto-secret-sentry-gui)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloudwatch-pro/releases/tag/v1.0.0) in [d3mio/auto-cloudwatch-pro](https://github.com/d3mio/auto-cloudwatch-pro)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloud-debugger/releases/tag/v1.0.0) in [d3mio/auto-cloud-debugger](https://github.com/d3mio/auto-cloud-debugger)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-model-inspector/releases/tag/v1.0.0) in [d3mio/auto-ai-model-inspector](https://github.com/d3mio/auto-ai-model-inspector)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-sysguardian/releases/tag/v1.0.0) in [d3mio/auto-sysguardian](https://github.com/d3mio/auto-sysguardian)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-real-time-data-visualizer/releases/tag/v1.0.0) in [d3mio/auto-real-time-data-visualizer](https://github.com/d3mio/auto-real-time-data-visualizer)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/Priceradar-intelligence-engine/releases/tag/v1.0.0) in [d3mio/Priceradar-intelligence-engine](https://github.com/d3mio/Priceradar-intelligence-engine)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-spectator-123/releases/tag/v1.0.0) in [d3mio/auto-secret-spectator-123](https://github.com/d3mio/auto-secret-spectator-123)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-sentry-gui/releases/tag/v1.0.0) in [d3mio/auto-secret-sentry-gui](https://github.com/d3mio/auto-secret-sentry-gui)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloudwatch-pro/releases/tag/v1.0.0) in [d3mio/auto-cloudwatch-pro](https://github.com/d3mio/auto-cloudwatch-pro)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloud-debugger/releases/tag/v1.0.0) in [d3mio/auto-cloud-debugger](https://github.com/d3mio/auto-cloud-debugger)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-model-inspector/releases/tag/v1.0.0) in [d3mio/auto-ai-model-inspector](https://github.com/d3mio/auto-ai-model-inspector)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-sysguardian/releases/tag/v1.0.0) in [d3mio/auto-sysguardian](https://github.com/d3mio/auto-sysguardian)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-real-time-data-visualizer/releases/tag/v1.0.0) in [d3mio/auto-real-time-data-visualizer](https://github.com/d3mio/auto-real-time-data-visualizer)
 <!--END_SECTION:activity-->
