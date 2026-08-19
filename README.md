@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-observastream-designer-studio/releases/tag/v1.0.0) in [d3mio/auto-observastream-designer-studio](https://github.com/d3mio/auto-observastream-designer-studio)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-neurosculpt-ai-studio/releases/tag/v1.0.0) in [d3mio/auto-neurosculpt-ai-studio](https://github.com/d3mio/auto-neurosculpt-ai-studio)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-nexusstream-canvas-studio/releases/tag/v1.0.0) in [d3mio/auto-nexusstream-canvas-studio](https://github.com/d3mio/auto-nexusstream-canvas-studio)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-netwatch-pro/releases/tag/v1.0.0) in [d3mio/auto-netwatch-pro](https://github.com/d3mio/auto-netwatch-pro)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-spectator-123/releases/tag/v1.0.0) in [d3mio/auto-secret-spectator-123](https://github.com/d3mio/auto-secret-spectator-123)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-sentry-gui/releases/tag/v1.0.0) in [d3mio/auto-secret-sentry-gui](https://github.com/d3mio/auto-secret-sentry-gui)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloudwatch-pro/releases/tag/v1.0.0) in [d3mio/auto-cloudwatch-pro](https://github.com/d3mio/auto-cloudwatch-pro)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-gitscout-secret-history-auditor/releases/tag/v1.0.0) in [d3mio/auto-gitscout-secret-history-auditor](https://github.com/d3mio/auto-gitscout-secret-history-auditor)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-observastream-designer-studio/releases/tag/v1.0.0) in [d3mio/auto-observastream-designer-studio](https://github.com/d3mio/auto-observastream-designer-studio)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-neurosculpt-ai-studio/releases/tag/v1.0.0) in [d3mio/auto-neurosculpt-ai-studio](https://github.com/d3mio/auto-neurosculpt-ai-studio)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-nexusstream-canvas-studio/releases/tag/v1.0.0) in [d3mio/auto-nexusstream-canvas-studio](https://github.com/d3mio/auto-nexusstream-canvas-studio)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-netwatch-pro/releases/tag/v1.0.0) in [d3mio/auto-netwatch-pro](https://github.com/d3mio/auto-netwatch-pro)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-spectator-123/releases/tag/v1.0.0) in [d3mio/auto-secret-spectator-123](https://github.com/d3mio/auto-secret-spectator-123)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-secret-sentry-gui/releases/tag/v1.0.0) in [d3mio/auto-secret-sentry-gui](https://github.com/d3mio/auto-secret-sentry-gui)
 <!--END_SECTION:activity-->
