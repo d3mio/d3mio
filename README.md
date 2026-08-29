@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-real-time-data-visualizer-studio-708/releases/tag/v1.0.0) in [d3mio/auto-real-time-data-visualizer-studio-708](https://github.com/d3mio/auto-real-time-data-visualizer-studio-708)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-model-visual-inspector/releases/tag/v1.0.0) in [d3mio/auto-ai-model-visual-inspector](https://github.com/d3mio/auto-ai-model-visual-inspector)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-synapseshield-ai-model-studio/releases/tag/v1.0.0) in [d3mio/auto-synapseshield-ai-model-studio](https://github.com/d3mio/auto-synapseshield-ai-model-studio)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-appflow-insight-trace-viz-gui/releases/tag/v1.0.0) in [d3mio/auto-appflow-insight-trace-viz-gui](https://github.com/d3mio/auto-appflow-insight-trace-viz-gui)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-nexus-vizpro-studio-gui/releases/tag/v1.0.0) in [d3mio/auto-nexus-vizpro-studio-gui](https://github.com/d3mio/auto-nexus-vizpro-studio-gui)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-edgesight-navigator-gui/releases/tag/v1.0.0) in [d3mio/auto-edgesight-navigator-gui](https://github.com/d3mio/auto-edgesight-navigator-gui)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-chronosight-studio-gui/releases/tag/v1.0.0) in [d3mio/auto-chronosight-studio-gui](https://github.com/d3mio/auto-chronosight-studio-gui)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-aimodel-xray-studio-explainer-gui/releases/tag/v1.0.0) in [d3mio/auto-aimodel-xray-studio-explainer-gui](https://github.com/d3mio/auto-aimodel-xray-studio-explainer-gui)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-real-time-data-visualizer-studio-708/releases/tag/v1.0.0) in [d3mio/auto-real-time-data-visualizer-studio-708](https://github.com/d3mio/auto-real-time-data-visualizer-studio-708)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-model-visual-inspector/releases/tag/v1.0.0) in [d3mio/auto-ai-model-visual-inspector](https://github.com/d3mio/auto-ai-model-visual-inspector)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-synapseshield-ai-model-studio/releases/tag/v1.0.0) in [d3mio/auto-synapseshield-ai-model-studio](https://github.com/d3mio/auto-synapseshield-ai-model-studio)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-appflow-insight-trace-viz-gui/releases/tag/v1.0.0) in [d3mio/auto-appflow-insight-trace-viz-gui](https://github.com/d3mio/auto-appflow-insight-trace-viz-gui)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-nexus-vizpro-studio-gui/releases/tag/v1.0.0) in [d3mio/auto-nexus-vizpro-studio-gui](https://github.com/d3mio/auto-nexus-vizpro-studio-gui)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-edgesight-navigator-gui/releases/tag/v1.0.0) in [d3mio/auto-edgesight-navigator-gui](https://github.com/d3mio/auto-edgesight-navigator-gui)
 <!--END_SECTION:activity-->
