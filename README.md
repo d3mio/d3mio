@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-streamsight-dataflow-studio/releases/tag/v1.0.0) in [d3mio/auto-streamsight-dataflow-studio](https://github.com/d3mio/auto-streamsight-dataflow-studio)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-containerflow-nexus-dev-viz/releases/tag/v1.0.0) in [d3mio/auto-containerflow-nexus-dev-viz](https://github.com/d3mio/auto-containerflow-nexus-dev-viz)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-netatlas-flow-analyzer-gui/releases/tag/v1.0.0) in [d3mio/auto-netatlas-flow-analyzer-gui](https://github.com/d3mio/auto-netatlas-flow-analyzer-gui)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-traceflow-studio-apm-viz/releases/tag/v1.0.0) in [d3mio/auto-traceflow-studio-apm-viz](https://github.com/d3mio/auto-traceflow-studio-apm-viz)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-api-mesh-gateway-studio/releases/tag/v1.0.0) in [d3mio/auto-api-mesh-gateway-studio](https://github.com/d3mio/auto-api-mesh-gateway-studio)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-meshflow-insight-studio/releases/tag/v1.0.0) in [d3mio/auto-meshflow-insight-studio](https://github.com/d3mio/auto-meshflow-insight-studio)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-837/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-837](https://github.com/d3mio/auto-priceradar-intelligence-engine-837)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-218/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-218](https://github.com/d3mio/auto-depshield-gui-inspector-218)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-streamsight-dataflow-studio/releases/tag/v1.0.0) in [d3mio/auto-streamsight-dataflow-studio](https://github.com/d3mio/auto-streamsight-dataflow-studio)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-containerflow-nexus-dev-viz/releases/tag/v1.0.0) in [d3mio/auto-containerflow-nexus-dev-viz](https://github.com/d3mio/auto-containerflow-nexus-dev-viz)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-netatlas-flow-analyzer-gui/releases/tag/v1.0.0) in [d3mio/auto-netatlas-flow-analyzer-gui](https://github.com/d3mio/auto-netatlas-flow-analyzer-gui)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-traceflow-studio-apm-viz/releases/tag/v1.0.0) in [d3mio/auto-traceflow-studio-apm-viz](https://github.com/d3mio/auto-traceflow-studio-apm-viz)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-api-mesh-gateway-studio/releases/tag/v1.0.0) in [d3mio/auto-api-mesh-gateway-studio](https://github.com/d3mio/auto-api-mesh-gateway-studio)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-meshflow-insight-studio/releases/tag/v1.0.0) in [d3mio/auto-meshflow-insight-studio](https://github.com/d3mio/auto-meshflow-insight-studio)
 <!--END_SECTION:activity-->
