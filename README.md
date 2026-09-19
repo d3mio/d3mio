@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-marketspy-price-intel-dashboard/releases/tag/v1.0.0) in [d3mio/auto-marketspy-price-intel-dashboard](https://github.com/d3mio/auto-marketspy-price-intel-dashboard)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-915/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-915](https://github.com/d3mio/auto-depshield-gui-inspector-915)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash/releases/tag/v1.0.0) in [d3mio/auto-edgesense-iot-fleet-viz-dash](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-decision-trace-vizpro/releases/tag/v1.0.0) in [d3mio/auto-ai-decision-trace-vizpro](https://github.com/d3mio/auto-ai-decision-trace-vizpro)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-239/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-239](https://github.com/d3mio/auto-depshield-gui-inspector-239)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloudpulse-ai-costops-telemetry-gui/releases/tag/v1.0.0) in [d3mio/auto-cloudpulse-ai-costops-telemetry-gui](https://github.com/d3mio/auto-cloudpulse-ai-costops-telemetry-gui)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-codeguardian-pro-secret-analyzer/releases/tag/v1.0.0) in [d3mio/auto-codeguardian-pro-secret-analyzer](https://github.com/d3mio/auto-codeguardian-pro-secret-analyzer)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-flowvision-designer-studio/releases/tag/v1.0.0) in [d3mio/auto-flowvision-designer-studio](https://github.com/d3mio/auto-flowvision-designer-studio)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-marketspy-price-intel-dashboard/releases/tag/v1.0.0) in [d3mio/auto-marketspy-price-intel-dashboard](https://github.com/d3mio/auto-marketspy-price-intel-dashboard)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-915/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-915](https://github.com/d3mio/auto-depshield-gui-inspector-915)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash/releases/tag/v1.0.0) in [d3mio/auto-edgesense-iot-fleet-viz-dash](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-decision-trace-vizpro/releases/tag/v1.0.0) in [d3mio/auto-ai-decision-trace-vizpro](https://github.com/d3mio/auto-ai-decision-trace-vizpro)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-239/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-239](https://github.com/d3mio/auto-depshield-gui-inspector-239)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cloudpulse-ai-costops-telemetry-gui/releases/tag/v1.0.0) in [d3mio/auto-cloudpulse-ai-costops-telemetry-gui](https://github.com/d3mio/auto-cloudpulse-ai-costops-telemetry-gui)
 <!--END_SECTION:activity-->
