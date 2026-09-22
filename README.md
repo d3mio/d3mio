@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-streamforge-canvas-rt-viz-studio/releases/tag/v1.0.0) in [d3mio/auto-streamforge-canvas-rt-viz-studio](https://github.com/d3mio/auto-streamforge-canvas-rt-viz-studio)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cognitoviz-ai-studio/releases/tag/v1.0.0) in [d3mio/auto-cognitoviz-ai-studio](https://github.com/d3mio/auto-cognitoviz-ai-studio)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-flowvision-designer-studio/releases/tag/v1.0.0) in [d3mio/auto-flowvision-designer-studio](https://github.com/d3mio/auto-flowvision-designer-studio)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-marketspy-price-intel-dashboard/releases/tag/v1.0.0) in [d3mio/auto-marketspy-price-intel-dashboard](https://github.com/d3mio/auto-marketspy-price-intel-dashboard)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-915/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-915](https://github.com/d3mio/auto-depshield-gui-inspector-915)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash/releases/tag/v1.0.0) in [d3mio/auto-edgesense-iot-fleet-viz-dash](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-ai-decision-trace-vizpro/releases/tag/v1.0.0) in [d3mio/auto-ai-decision-trace-vizpro](https://github.com/d3mio/auto-ai-decision-trace-vizpro)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cogniviz-xai-studio/releases/tag/v1.0.0) in [d3mio/auto-cogniviz-xai-studio](https://github.com/d3mio/auto-cogniviz-xai-studio)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-streamforge-canvas-rt-viz-studio/releases/tag/v1.0.0) in [d3mio/auto-streamforge-canvas-rt-viz-studio](https://github.com/d3mio/auto-streamforge-canvas-rt-viz-studio)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cognitoviz-ai-studio/releases/tag/v1.0.0) in [d3mio/auto-cognitoviz-ai-studio](https://github.com/d3mio/auto-cognitoviz-ai-studio)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-flowvision-designer-studio/releases/tag/v1.0.0) in [d3mio/auto-flowvision-designer-studio](https://github.com/d3mio/auto-flowvision-designer-studio)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-marketspy-price-intel-dashboard/releases/tag/v1.0.0) in [d3mio/auto-marketspy-price-intel-dashboard](https://github.com/d3mio/auto-marketspy-price-intel-dashboard)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-915/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-915](https://github.com/d3mio/auto-depshield-gui-inspector-915)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash/releases/tag/v1.0.0) in [d3mio/auto-edgesense-iot-fleet-viz-dash](https://github.com/d3mio/auto-edgesense-iot-fleet-viz-dash)
 <!--END_SECTION:activity-->
