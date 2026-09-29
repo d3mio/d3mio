@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-threatgraph-inspector-gui/releases/tag/v1.0.0) in [d3mio/auto-threatgraph-inspector-gui](https://github.com/d3mio/auto-threatgraph-inspector-gui)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-kubesight-pro-cluster-telemetry/releases/tag/v1.0.0) in [d3mio/auto-kubesight-pro-cluster-telemetry](https://github.com/d3mio/auto-kubesight-pro-cluster-telemetry)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-streamplot-designer-studio-gui/releases/tag/v1.0.0) in [d3mio/auto-streamplot-designer-studio-gui](https://github.com/d3mio/auto-streamplot-designer-studio-gui)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-259/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-259](https://github.com/d3mio/auto-priceradar-intelligence-engine-259)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-micro-mesh-vizier/releases/tag/v1.0.0) in [d3mio/auto-micro-mesh-vizier](https://github.com/d3mio/auto-micro-mesh-vizier)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-aetherflow-live-sensor-viz-studio/releases/tag/v1.0.0) in [d3mio/auto-aetherflow-live-sensor-viz-studio](https://github.com/d3mio/auto-aetherflow-live-sensor-viz-studio)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-cogniviz-xai-studio/releases/tag/v1.0.0) in [d3mio/auto-cogniviz-xai-studio](https://github.com/d3mio/auto-cogniviz-xai-studio)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-codesafe-guardian-viz/releases/tag/v1.0.0) in [d3mio/auto-codesafe-guardian-viz](https://github.com/d3mio/auto-codesafe-guardian-viz)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-threatgraph-inspector-gui/releases/tag/v1.0.0) in [d3mio/auto-threatgraph-inspector-gui](https://github.com/d3mio/auto-threatgraph-inspector-gui)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-kubesight-pro-cluster-telemetry/releases/tag/v1.0.0) in [d3mio/auto-kubesight-pro-cluster-telemetry](https://github.com/d3mio/auto-kubesight-pro-cluster-telemetry)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-streamplot-designer-studio-gui/releases/tag/v1.0.0) in [d3mio/auto-streamplot-designer-studio-gui](https://github.com/d3mio/auto-streamplot-designer-studio-gui)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-259/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-259](https://github.com/d3mio/auto-priceradar-intelligence-engine-259)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-micro-mesh-vizier/releases/tag/v1.0.0) in [d3mio/auto-micro-mesh-vizier](https://github.com/d3mio/auto-micro-mesh-vizier)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-aetherflow-live-sensor-viz-studio/releases/tag/v1.0.0) in [d3mio/auto-aetherflow-live-sensor-viz-studio](https://github.com/d3mio/auto-aetherflow-live-sensor-viz-studio)
 <!--END_SECTION:activity-->
