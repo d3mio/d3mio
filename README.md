@@ -114,11 +114,11 @@ At the convergence of performance, scalability, and design intelligence.
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-457/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-457](https://github.com/d3mio/auto-priceradar-intelligence-engine-457)
-2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-490/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-490](https://github.com/d3mio/auto-depshield-gui-inspector-490)
-3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-943/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-943](https://github.com/d3mio/auto-depshield-gui-inspector-943)
-4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-927/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-927](https://github.com/d3mio/auto-priceradar-intelligence-engine-927)
-5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-113/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-113](https://github.com/d3mio/auto-priceradar-intelligence-engine-113)
-6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-793/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-793](https://github.com/d3mio/auto-priceradar-intelligence-engine-793)
-7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-402/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-402](https://github.com/d3mio/auto-depshield-gui-inspector-402)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-336/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-336](https://github.com/d3mio/auto-depshield-gui-inspector-336)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-457/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-457](https://github.com/d3mio/auto-priceradar-intelligence-engine-457)
+3. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-490/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-490](https://github.com/d3mio/auto-depshield-gui-inspector-490)
+4. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-depshield-gui-inspector-943/releases/tag/v1.0.0) in [d3mio/auto-depshield-gui-inspector-943](https://github.com/d3mio/auto-depshield-gui-inspector-943)
+5. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-927/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-927](https://github.com/d3mio/auto-priceradar-intelligence-engine-927)
+6. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-113/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-113](https://github.com/d3mio/auto-priceradar-intelligence-engine-113)
+7. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/d3mio/auto-priceradar-intelligence-engine-793/releases/tag/v1.0.0) in [d3mio/auto-priceradar-intelligence-engine-793](https://github.com/d3mio/auto-priceradar-intelligence-engine-793)
 <!--END_SECTION:activity-->
